@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @washing %>
+
+<div>
+  <%= link_to "Edit this washing", edit_washing_path(@washing) %> |
+  <%= link_to "Back to washings", washings_path %>
+
+  <%= button_to "Destroy this washing", @washing, method: :delete %>
+</div>

@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2023-02-17
+  end_date: 2023-02-17
+  start_time: 2023-02-17 12:35:37
+  end_time: 2023-02-17 12:35:37
+  brew: one
+  washer_id: 1
+  checking_id: 1
+  glass_checking_id: 1
+  equipment: one
+
+two:
+  start_date: 2023-02-17
+  end_date: 2023-02-17
+  start_time: 2023-02-17 12:35:37
+  end_time: 2023-02-17 12:35:37
+  brew: two
+  washer_id: 1
+  checking_id: 1
+  glass_checking_id: 1
+  equipment: two

@@ -1,0 +1,2 @@
+module WashingsHelper
+end

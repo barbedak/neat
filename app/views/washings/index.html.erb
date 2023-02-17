@@ -1,0 +1,14 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Washings</h1>
+
+<div id="washings">
+  <% @washings.each do |washing| %>
+    <%= render washing %>
+    <p>
+      <%= link_to "Show this washing", washing %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New washing", new_washing_path %>
