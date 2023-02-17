@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :series
   resources :employees
   resources :equipment_types
   resources :equipment
