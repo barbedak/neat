@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nickname: MyString
+  password_digest: MyString
+  admin_rule: false
+  employee_id: 1
+
+two:
+  nickname: MyString
+  password_digest: MyString
+  admin_rule: false
+  employee_id: 1
