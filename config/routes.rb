@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :brews
   resources :washings
   resources :products
   resources :series
