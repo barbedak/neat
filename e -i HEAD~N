@@ -1,0 +1,53 @@
+[33mcommit c6207c2e0f95290d1f4f7705cd348d9a63d9aa3f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Alexandr Ivchenko <fcg50328@gmail.com>
+Date:   Mon Sep 29 08:15:39 2025 +0300
+
+    Add Entity "Disinfections"
+
+[33mcommit 14dd67b53feb9407cf7677179bab90b3445d6e46[m
+Author: Alexandr Ivchenko <fcg50328@gmail.com>
+Date:   Mon Sep 29 08:08:56 2025 +0300
+
+    Add Entity "Protocols"
+
+[33mcommit 434fccfc9f101859686d76ca22a3b9d56b74a131[m
+Author: Alexandr Ivchenko <fcg50328@gmail.com>
+Date:   Mon Sep 29 08:08:11 2025 +0300
+
+    Add Entity "Flushings"
+
+[33mcommit 0ce874ae8e078758013a7e4636992232cf5e2cdd[m
+Author: Alexandr Ivchenko <fcg50328@gmail.com>
+Date:   Mon Sep 29 08:04:23 2025 +0300
+
+    Add Entity "Disinfections"
+
+[33mcommit 1f03052ea0097d9b210c8ccd6d23c1d8c329a478[m
+Author: Alexandr Ivchenko <fcg50328@gmail.com>
+Date:   Mon Sep 22 10:06:49 2025 +0300
+
+    Connecting database
+
+[33mcommit 7e139811675eae534d3a6642a56de4c9411b3638[m
+Author: Alexandr Ivchenko <fcg50328@gmail.com>
+Date:   Wed Sep 17 15:44:08 2025 +0300
+
+    Rename application
+
+[33mcommit fdb26688302b7cc7d684a431fbaa5e780c59d567[m
+Author: Andrey Kurochkin <barbedak@gmail.com>
+Date:   Wed Sep 17 15:32:01 2025 +0300
+
+    actual env
+
+[33mcommit 55da294d5d840fd09b939dea9fe2c0a68614cc68[m
+Author: Andrey Kurochkin <barbedak@gmail.com>
+Date:   Wed Sep 17 15:31:30 2025 +0300
+
+    add env
+
+[33mcommit 882f4ed15dc17dc9e953f48c824720b8beff3626[m
+Author: Andrey Kurochkin <barbedak@gmail.com>
+Date:   Wed Sep 17 14:13:28 2025 +0300
+
+    init
